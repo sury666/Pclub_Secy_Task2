@@ -9,7 +9,7 @@ The dataset given here - [Dataset](https://drive.google.com/file/d/0BxQfpNgXuWoI
 ## My appproach
 So, firstly, I searched google on how to predict some things based on same other factors using ML. I learned about supervised ML and regression models. After plotting the data, it turned out to be linearly related, so I used linear regression to build my ML model. I analysed my data and found that it was already clean(didn't contain any null values).
 In the starting I didn't know that linear regression can be used only on numeric values, so I got unexpected errors. After thorough reading on the internet, I got to know about feature encoding, so I used it.
-To improve accuracy, I removed outliers and (scaled the data in the starting which decreased the aaccuracy so scraped it). 
+To improve accuracy, I removed outliers and (scaled the data in the starting which decreased the accuracy so scraped it). 
 
 ## Steps to run my code and to test my model against a test dataset
 My github repo contains this README file, the dataset I used and the only jupyter notebook containing all the code.
